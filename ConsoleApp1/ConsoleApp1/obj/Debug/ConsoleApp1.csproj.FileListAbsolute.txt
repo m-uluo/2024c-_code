@@ -1,0 +1,14 @@
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.dll
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+G:\C# program\2024c-_code\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.pdb

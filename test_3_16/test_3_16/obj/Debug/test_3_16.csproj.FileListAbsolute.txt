@@ -1,0 +1,10 @@
+G:\C# program\2024c-_code\test_3_16\test_3_16\bin\Debug\test_3_16.exe.config
+G:\C# program\2024c-_code\test_3_16\test_3_16\bin\Debug\test_3_16.exe
+G:\C# program\2024c-_code\test_3_16\test_3_16\bin\Debug\test_3_16.pdb
+G:\C# program\2024c-_code\test_3_16\test_3_16\obj\Debug\test_3_16.csproj.AssemblyReference.cache
+G:\C# program\2024c-_code\test_3_16\test_3_16\obj\Debug\test_3_16.Form1.resources
+G:\C# program\2024c-_code\test_3_16\test_3_16\obj\Debug\test_3_16.Properties.Resources.resources
+G:\C# program\2024c-_code\test_3_16\test_3_16\obj\Debug\test_3_16.csproj.GenerateResource.cache
+G:\C# program\2024c-_code\test_3_16\test_3_16\obj\Debug\test_3_16.csproj.CoreCompileInputs.cache
+G:\C# program\2024c-_code\test_3_16\test_3_16\obj\Debug\test_3_16.exe
+G:\C# program\2024c-_code\test_3_16\test_3_16\obj\Debug\test_3_16.pdb
