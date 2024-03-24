@@ -1,0 +1,7 @@
+G:\C# program\2024c-_code\test_3_23\test_3_23\bin\Debug\test_3_23.exe.config
+G:\C# program\2024c-_code\test_3_23\test_3_23\bin\Debug\test_3_23.exe
+G:\C# program\2024c-_code\test_3_23\test_3_23\bin\Debug\test_3_23.pdb
+G:\C# program\2024c-_code\test_3_23\test_3_23\obj\Debug\test_3_23.csproj.AssemblyReference.cache
+G:\C# program\2024c-_code\test_3_23\test_3_23\obj\Debug\test_3_23.csproj.CoreCompileInputs.cache
+G:\C# program\2024c-_code\test_3_23\test_3_23\obj\Debug\test_3_23.exe
+G:\C# program\2024c-_code\test_3_23\test_3_23\obj\Debug\test_3_23.pdb
