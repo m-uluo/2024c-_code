@@ -1,0 +1,15 @@
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.exe
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.deps.json
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.runtimeconfig.json
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.dll
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.pdb
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.AssemblyInfoInputs.cache
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.AssemblyInfo.cs
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.csproj.CoreCompileInputs.cache
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.sourcelink.json
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.dll
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\obj\Debug\net8.0\refint\InterfaceExample.dll
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.pdb
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.genruntimeconfig.cache
+G:\C# program\2024c-_code\InterfaceExample\InterfaceExample\obj\Debug\net8.0\ref\InterfaceExample.dll

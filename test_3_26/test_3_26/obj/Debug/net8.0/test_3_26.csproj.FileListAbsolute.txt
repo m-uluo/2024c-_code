@@ -1,0 +1,15 @@
+G:\C# program\2024c-_code\test_3_26\test_3_26\bin\Debug\net8.0\test_3_26.exe
+G:\C# program\2024c-_code\test_3_26\test_3_26\bin\Debug\net8.0\test_3_26.deps.json
+G:\C# program\2024c-_code\test_3_26\test_3_26\bin\Debug\net8.0\test_3_26.runtimeconfig.json
+G:\C# program\2024c-_code\test_3_26\test_3_26\bin\Debug\net8.0\test_3_26.dll
+G:\C# program\2024c-_code\test_3_26\test_3_26\bin\Debug\net8.0\test_3_26.pdb
+G:\C# program\2024c-_code\test_3_26\test_3_26\obj\Debug\net8.0\test_3_26.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# program\2024c-_code\test_3_26\test_3_26\obj\Debug\net8.0\test_3_26.AssemblyInfoInputs.cache
+G:\C# program\2024c-_code\test_3_26\test_3_26\obj\Debug\net8.0\test_3_26.AssemblyInfo.cs
+G:\C# program\2024c-_code\test_3_26\test_3_26\obj\Debug\net8.0\test_3_26.csproj.CoreCompileInputs.cache
+G:\C# program\2024c-_code\test_3_26\test_3_26\obj\Debug\net8.0\test_3_26.sourcelink.json
+G:\C# program\2024c-_code\test_3_26\test_3_26\obj\Debug\net8.0\test_3_26.dll
+G:\C# program\2024c-_code\test_3_26\test_3_26\obj\Debug\net8.0\refint\test_3_26.dll
+G:\C# program\2024c-_code\test_3_26\test_3_26\obj\Debug\net8.0\test_3_26.pdb
+G:\C# program\2024c-_code\test_3_26\test_3_26\obj\Debug\net8.0\test_3_26.genruntimeconfig.cache
+G:\C# program\2024c-_code\test_3_26\test_3_26\obj\Debug\net8.0\ref\test_3_26.dll

@@ -1,0 +1,15 @@
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\bin\Debug\net8.0\解一元三次方程.exe
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\bin\Debug\net8.0\解一元三次方程.deps.json
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\bin\Debug\net8.0\解一元三次方程.runtimeconfig.json
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\bin\Debug\net8.0\解一元三次方程.dll
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\bin\Debug\net8.0\解一元三次方程.pdb
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\obj\Debug\net8.0\解一元三次方程.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\obj\Debug\net8.0\解一元三次方程.AssemblyInfoInputs.cache
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\obj\Debug\net8.0\解一元三次方程.AssemblyInfo.cs
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\obj\Debug\net8.0\解一元三次方程.csproj.CoreCompileInputs.cache
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\obj\Debug\net8.0\解一元三次方程.sourcelink.json
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\obj\Debug\net8.0\解一元三次方程.dll
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\obj\Debug\net8.0\refint\解一元三次方程.dll
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\obj\Debug\net8.0\解一元三次方程.pdb
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\obj\Debug\net8.0\解一元三次方程.genruntimeconfig.cache
+G:\C# program\2024c-_code\解一元三次方程\解一元三次方程\obj\Debug\net8.0\ref\解一元三次方程.dll

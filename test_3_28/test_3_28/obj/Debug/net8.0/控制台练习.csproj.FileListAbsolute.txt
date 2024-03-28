@@ -1,0 +1,15 @@
+G:\C# program\2024c-_code\test_3_28\test_3_28\bin\Debug\net8.0\控制台练习.exe
+G:\C# program\2024c-_code\test_3_28\test_3_28\bin\Debug\net8.0\控制台练习.deps.json
+G:\C# program\2024c-_code\test_3_28\test_3_28\bin\Debug\net8.0\控制台练习.runtimeconfig.json
+G:\C# program\2024c-_code\test_3_28\test_3_28\bin\Debug\net8.0\控制台练习.dll
+G:\C# program\2024c-_code\test_3_28\test_3_28\bin\Debug\net8.0\控制台练习.pdb
+G:\C# program\2024c-_code\test_3_28\test_3_28\obj\Debug\net8.0\控制台练习.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# program\2024c-_code\test_3_28\test_3_28\obj\Debug\net8.0\控制台练习.AssemblyInfoInputs.cache
+G:\C# program\2024c-_code\test_3_28\test_3_28\obj\Debug\net8.0\控制台练习.AssemblyInfo.cs
+G:\C# program\2024c-_code\test_3_28\test_3_28\obj\Debug\net8.0\控制台练习.csproj.CoreCompileInputs.cache
+G:\C# program\2024c-_code\test_3_28\test_3_28\obj\Debug\net8.0\控制台练习.sourcelink.json
+G:\C# program\2024c-_code\test_3_28\test_3_28\obj\Debug\net8.0\控制台练习.dll
+G:\C# program\2024c-_code\test_3_28\test_3_28\obj\Debug\net8.0\refint\控制台练习.dll
+G:\C# program\2024c-_code\test_3_28\test_3_28\obj\Debug\net8.0\控制台练习.pdb
+G:\C# program\2024c-_code\test_3_28\test_3_28\obj\Debug\net8.0\控制台练习.genruntimeconfig.cache
+G:\C# program\2024c-_code\test_3_28\test_3_28\obj\Debug\net8.0\ref\控制台练习.dll
